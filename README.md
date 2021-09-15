@@ -1,5 +1,5 @@
 # Black 1976 coupon bond pricing implementation
-A financial suite of applications, currently includes Black 1976 coupon bond pricing 
+Black 1976 bond pricing implementation, the first part of a much larger financial suite application that will perform further coupon bond pricing, insurance calculations, and mortgage repayment calculation.
 
 Special thanks to Brian Bryne from the University of Dublin on his excellent video regarding the initial C++ implementation.
 
